@@ -12,7 +12,7 @@ var mongoose = require("mongoose");
 mongoose.set("strictQuery", true);
 
 mongoose.connect(
-  "mongodb+srv://mernproject:mernproject@gopilakshman.p48fsti.mongodb.net/",
+  "mongodb+srv://rajasekharganapavarapu18:<Sekhar@2004>@cluster0.twcqpuz.mongodb.net/",
   { useNewUrlParser: true, useUnifiedTopology: true }
 );
 var db = mongoose.connection;
